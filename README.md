@@ -26,6 +26,3 @@ The model is trained to classify videos into various success categories based on
 
 We welcome contributions from the community. If you wish to contribute, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. Please see the `LICENSE` file for more details.
